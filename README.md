@@ -17,9 +17,7 @@ Mineflayer
         
 Javascript      
         
-tkinter     
-        
-time        
+tkinter             
 
 # Current issues
 The username can only be ChatBot for some reasons, if it is changed to other names, it does not show the messages that the bot sent, very weird.       
@@ -28,5 +26,5 @@ After auto reconnecting, the programme will not work anymore, it can neither rec
         
 I'm not pretty sure whether it's the problem of the server or the programme. (Hopefully someone will find out and fix the problems one day, I do not have the skills to fix them tbh)
 
-# Thanks to
+# Based On
 Mineflayer  https://mineflayer.prismarine.js.org/#/
