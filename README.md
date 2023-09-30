@@ -19,12 +19,5 @@ Javascript
         
 tkinter             
 
-# Current issues
-The username can only be ChatBot for some reasons, if it is changed to other names, it does not show the messages that the bot sent, very weird.       
-        
-After auto reconnecting, the programme will not work anymore, it can neither receive nor send messages (But the GUI will remains). I had been working on this issues for sevral hours, but it still doesn't work. For instance change the reconnect function to retsarting the whole programme and put the bot in a def function, however, none of them work.
-        
-I'm not pretty sure whether it's the problem of the server or the programme. (Hopefully someone will find out and fix the problems one day, I do not have the skills to fix them tbh)
-
 # Based On
 Mineflayer  https://mineflayer.prismarine.js.org/#/
