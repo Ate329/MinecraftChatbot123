@@ -1,7 +1,5 @@
 # MinecraftChatbot123
-A minecraft chat bot that can send and receive messages in the server chat without yourself entering the game.   
-        
-(Contains a user friendly GUI made by Tk)       
+A minecraft chat bot that can send and receive messages in the server chat without yourself entering the game.      
         
 The main idea is to create a fake player in the server so it can send messages and get the messages from the server chat.
 
